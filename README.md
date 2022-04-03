@@ -1,18 +1,18 @@
 <img src = ".github/wonderwoman.png" width = "325px" align = "right">
 
-# Fala galera! Meu nome é Ricarth Lima 👩‍💻
+# Fala galera! Meu nome é Kaue Blester 👩‍💻
 
-Sou criador de conteúdo na [Alura | Cursos online de Tecnologia](https://github.com/alura-cursos/) e na [Dotcode Edu](https://www.youtube.com/c/DotcodeEdu);
+Sou criador de conteúdos.
 
 :man_student: Sistemas de Informação - [CIn UFPE](https://portal.cin.ufpe.br/);
 
-💙 Em um triângulo amoroso com **Flutter** e **Unity2D**;
+💙 Em um triângulo amoroso com **JAVA** e **LUA**;
 
 🧰 Usando Git/GitHub, Unity IDE, Visual Studio Code e Firebase;
 
-:raising_hand_man: **Redes Sociais:** [Instagram](https://www.instagram.com/ricarthlima/) and [YouTube](https://www.youtube.com/channel/UCzQIC5Emb1scaYgpJKjktaQ);
+:raising_hand_man: **Redes Sociais:** em breve;
 
-⚡ **Fun fact:** Sou o maior fã da Mulher Maravilha que você conhece;
+⚡ **Fun fact:** Sou o maior fã de miranha que podes conhecer.;
 
 ---  
 <center>
